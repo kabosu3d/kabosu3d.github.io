@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cra-ts-r3f-drei-starter-demo/static/css/main.fc78f69b.chunk.css",
+    "main.js": "/cra-ts-r3f-drei-starter-demo/static/js/main.6e0a4a00.chunk.js",
+    "main.js.map": "/cra-ts-r3f-drei-starter-demo/static/js/main.6e0a4a00.chunk.js.map",
+    "runtime-main.js": "/cra-ts-r3f-drei-starter-demo/static/js/runtime-main.8cd7808f.js",
+    "runtime-main.js.map": "/cra-ts-r3f-drei-starter-demo/static/js/runtime-main.8cd7808f.js.map",
+    "static/js/2.5f357e6d.chunk.js": "/cra-ts-r3f-drei-starter-demo/static/js/2.5f357e6d.chunk.js",
+    "static/js/2.5f357e6d.chunk.js.map": "/cra-ts-r3f-drei-starter-demo/static/js/2.5f357e6d.chunk.js.map",
+    "static/js/3.277df456.chunk.js": "/cra-ts-r3f-drei-starter-demo/static/js/3.277df456.chunk.js",
+    "static/js/3.277df456.chunk.js.map": "/cra-ts-r3f-drei-starter-demo/static/js/3.277df456.chunk.js.map",
+    "index.html": "/cra-ts-r3f-drei-starter-demo/index.html",
+    "static/css/main.fc78f69b.chunk.css.map": "/cra-ts-r3f-drei-starter-demo/static/css/main.fc78f69b.chunk.css.map",
+    "static/js/2.5f357e6d.chunk.js.LICENSE.txt": "/cra-ts-r3f-drei-starter-demo/static/js/2.5f357e6d.chunk.js.LICENSE.txt",
+    "static/media/ball.631059ef.glb": "/cra-ts-r3f-drei-starter-demo/static/media/ball.631059ef.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cd7808f.js",
+    "static/js/2.5f357e6d.chunk.js",
+    "static/css/main.fc78f69b.chunk.css",
+    "static/js/main.6e0a4a00.chunk.js"
+  ]
+}
